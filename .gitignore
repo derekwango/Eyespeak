@@ -1,0 +1,7 @@
+# .gitignore
+*.mp4
+*.zip
+*.pkl
+*.pt
+*.avi
+__pycache__/

@@ -1,0 +1,4 @@
+fix autocomplete to complete word
+report
+space and delete in their own row
+
