@@ -4,7 +4,7 @@ EyeSpeak is an assistive communication system designed to help individuals with 
 #Project Goal
 The main objective of EyeSpeak is to provide a low-cost, accessible communication platform for people with motor disabilities by leveraging blink detection and pattern recognition.
 
-#Features
+# Features
 Real-time eye blink detection using a webcam
 
 Blink pattern encoding system (e.g., short and long blinks)
@@ -26,7 +26,7 @@ Tkinter or PyQt (graphical user interface)
 
 pyttsx3 (text-to-speech, optional)
 
-#How It Works
+# How It Works
 The system uses a webcam to continuously capture video of the user's face.
 
 Facial landmarks are used to detect eye states and calculate blink duration.
@@ -39,7 +39,7 @@ Characters are combined into readable text displayed in the UI.
 
 Optionally, the system can vocalize the output text using text-to-speech.
 
-#Project Structure
+# Project Structure
 
 eyespeak/
 ├── eyespeak.py          # Main application script
@@ -50,7 +50,7 @@ eyespeak/
 ├── requirements.txt
 └── README.md
 
-#Future Enhancements
+# Future Enhancements
 Add predictive text using natural language processing
 
 Allow user-specific blink timing calibration
@@ -59,10 +59,10 @@ Support for additional languages and input modes
 
 Integration with IoT devices for accessibility (e.g., alarms, messaging)
 
-#Contributions
+# Contributions
 Contributions are welcome. Please submit a pull request or open an issue to suggest improvements.
 
-#License
+# License
 This project is licensed under the MIT License.
 
 
