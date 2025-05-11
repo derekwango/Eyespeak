@@ -39,8 +39,9 @@ Characters are combined into readable text displayed in the UI.
 
 Optionally, the system can vocalize the output text using text-to-speech.
 
-# Project Structure
+## Project Structure
 
+```text
 eyespeak/
 ├── eyespeak.py          # Main application script
 ├── blink_detector.py    # Blink detection logic
